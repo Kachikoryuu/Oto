@@ -1,6 +1,8 @@
 # Tunebeat
 Ultimate TJA & BMS Player for All Simurators...
 ## 概要
+らびぃ[@LAVVIT_SUSHI]様のコードを改変して遊んでます。
+
 太鼓さん次郎・TJAPlayer等で使われている.tjaファイルや、BMSで使われている.bms、.bmeなど(今後追加予定)を読み込み、プレイすることができます。  
 わかりやすく、シンプルに仕上げてみました。  
 各種説明書を同梱しています！操作方法などはそちらに詳しく載っていますので合わせてお読みください。
@@ -60,5 +62,4 @@ https://discord.gg/467xQnteQx
 
 ## 連絡先
 不具合報告、新規機能追加のリクエスト等、大歓迎です。  
-Twitter:[@LAVVIT_SUSHI](https://twitter.com/LAVVIT_SUSHI)  
-Discord:らびぃ#9478
+
